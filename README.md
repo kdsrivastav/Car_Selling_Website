@@ -48,7 +48,15 @@ After Creating Database,
 
 Here are screenshots that show the Car Selling demo application in use.
 
-**Home Page**
-(/screenshots/homePage.png?raw=true "Optional Title")
+**Home Page -**
+https://github.com/kdsrivastav/Car_Selling_Website/blob/aeafa7a843d293507c444a54421b6c0ba721965a/cars_sell/image/home_snap.png
 
 ---
+
+**Cars_Model -**
+https://github.com/kdsrivastav/Car_Selling_Website/blob/aeafa7a843d293507c444a54421b6c0ba721965a/cars_sell/image/cars_snap.png
+
+---
+
+**Login -**
+https://github.com/kdsrivastav/Car_Selling_Website/blob/aeafa7a843d293507c444a54421b6c0ba721965a/cars_sell/image/login_snap.png
