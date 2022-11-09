@@ -22,9 +22,8 @@ Software
 ## Deployment
 After Starting Apache and MySQL in XAMPP, follow the following steps
 
-- Extract file 
-- Copy the main project folder
-- Paste in xampp/htdocs/
+- Download Folder cars_sell 
+- Copy the cars_sell folder and  paste in xampp/htdocs/
 
 Now Connecting Database
 - Open a browser and go to URL http://localhost/phpmyadmin/
