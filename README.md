@@ -27,7 +27,7 @@ After Starting Apache and MySQL in XAMPP, follow the following steps
 
 ```bash
   1st Step: Extract file
-  2nd Step: Copy the main project folder
+  2nd Step: Copy the main project folder (folder name: cars_sell)
   3rd Step: Paste in xampp/htdocs/
 ```
 Now Connecting Database
@@ -35,16 +35,16 @@ Now Connecting Database
 ```bash
   4th Step: Open a browser and go to URL “http://localhost/phpmyadmin/”
   5th Step: Then, click on databases tab
-  6th Step: Create database naming “ecomm” and then click on import tab
-  7th Step: Click on browse file and select “ecomm.sql” file which is inside “database” folder
+  6th Step: Create database naming “cars_sell” and then click on import tab
+  7th Step: Click on browse file and select “cars_sell.sql” file which is inside “database” folder
   8th Step: Click on go.
 ```
 After Creating Database,
 ```bash
-9th Step: Open a browser and go to URL “http://localhost/ecommerce/”
+9th Step: Open a browser and go to URL “http://localhost/cars_sell/”
 ```
 
-## Live Demonstration
+## Snapshots
 
 Here are screenshots that show the Car Selling demo application in use.
 
