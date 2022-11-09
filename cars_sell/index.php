@@ -627,7 +627,7 @@
 
     </div>
 
-    <div class="credit"> created by mr. xyz, web designer | all rights reserved </div>
+    <div class="credit"> all rights reserved </div>
 
 </section>
 
