@@ -42,7 +42,7 @@ After Creating Database
 Here are screenshots that show the Car Selling demo application in use.
 
 **Home Page -**
-https://github.com/kdsrivastav/Car_Selling_Website/blob/aeafa7a843d293507c444a54421b6c0ba721965a/cars_sell/image/home_snap.png
+https://github.com/kdsrivastav/Car_Selling_Website/blob/9effef19d6c7f39d9b3a2792cc47832f8e37d0e4/cars_sell/image/home_snap1.png
 
 ---
 
