@@ -33,7 +33,7 @@ Now Connecting Database
 - Click on go.
 
 After Creating Database
-- Open a browser and go to URL “http://localhost/cars_sell/”
+- Open a browser and go to URL “http://localhost/cars_sell/
 
 Login Details :
 - Username/Password : test/test
