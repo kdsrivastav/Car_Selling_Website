@@ -21,8 +21,7 @@ Software
 
 ## Deployment
 After Starting Apache and MySQL in XAMPP, follow the following steps
-
-- Download Folder cars_sell 
+- Extract the File 
 - Copy the cars_sell folder and  paste in xampp/htdocs/
 
 Now Connecting Database
